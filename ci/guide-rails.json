@@ -249,8 +249,8 @@
 					{
 						"name": "((application.name))",
 						"number_of_instances": 1,
-						"cloud_provider_name": "guide-rails-gcp-us-east1",
-						"cloud_provider_type": "vsphere",
+						"cloud_provider_name": "guide-rails",
+						"cloud_provider_type": "aws",
 						"os_type": "default",
 						"networks": [
 							"integration"
